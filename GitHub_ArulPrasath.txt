@@ -1,0 +1,22 @@
+1.Introduction
+-------------------------------
+What is Git?
+version control software
+Version control?
+who is created?
+Linux tarval-
+linux os-large os,so difficult to maintain,there fore to maintain code he found git.
+Git and Git hub?
+Git is a technology.
+Based on technology many providers are formed.
+one of the provider is Git hub
+
+Git Hub?
+Repositoy(folder contains all files related to the project)
+Read me file(basic instruction about the project)
+commit(saving the state)
+
+What is git hub?
+GitHub is the webbased hosting sewrvice for software code.
+provides version control using git.
+It is a collabrative tool which helps multiple users to work on a single project without much difficulties.
